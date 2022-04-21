@@ -1,0 +1,55 @@
+.Intro {
+  margin-top: 70px;
+  display: flex;
+}
+
+.i-left-title span {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 82px;
+  letter-spacing: 2px;
+  color: #ff8a56;
+}
+.i-left-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 82px;
+  letter-spacing: 2px;
+}
+
+.i-left-text {
+  margin-top: 34px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  color: #666666;
+}
+
+.i-left-btns {
+  display: flex;
+  margin-top: 30px;
+}
+.btn {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  height: 58px;
+  width: 151px;
+  background: #000000;
+}
+.btn-CV {
+  background-color: white;
+  color: #000000;
+}
+.btn-CV img {
+  padding-left: 20px;
+}
