@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  height: 10vh;
+  width: 100%;
+}
+.n-left {
+  flex: 1;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+.n-right {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.n-item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #000000;
+  cursor: pointer;
+  transition: all linear 0.2s;
+}
+.n-item:hover{
+  color: orange;
+}
