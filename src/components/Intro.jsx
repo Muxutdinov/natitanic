@@ -20,11 +20,11 @@ const Intro = () => {
         </div>
         <div className="i-left-btns">
             <div className="btn">Book a call</div>
-            <div className="btn btn-CV">Download CV <span><img src={s} /></span></div>
+            <div className="btn btn-CV">Download CV <span><img src={s} alt="s" /></span></div>
         </div>
       </div>
       <div className="i-right">
-          <img src={people} alt="" />
+          <img src={people} alt="people" />
       </div>
     </div>
   );
