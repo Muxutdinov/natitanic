@@ -1,0 +1,140 @@
+.p-first {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p-first-left {
+  flex: 1;
+}
+.p-first-right {
+  flex: 1;
+}
+.Product-Designer {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #ff5e69;
+}
+.That {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  color: #000000;
+}
+.p-first-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 40px;
+  color: #666666;
+}
+.p-second {
+  display: flex;
+  height: fit-content;
+  flex-wrap: wrap;
+  width: fit-content;
+}
+
+.r1 {
+  width: 310px;
+  margin: 5px;
+}
+.r2 {
+  margin: 5px;
+  width: 460px;
+}
+.r3 {
+  margin: 5px;
+  width: 310px;
+}
+.r4 {
+  margin: 5px;
+  width: 310px;
+}
+.p-second-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-third {
+  display: flex;
+  margin-top: 160px;
+  margin-bottom: 190px;
+}
+.p-third-left {
+  flex: 0.7;
+  display: flex;
+  flex-direction: column;
+}
+.p-third-right {
+  flex: 0.7;
+  display: flex;
+  flex-direction: column;
+}
+.p-third-left-item {
+  height: 70px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.p-third-left-item-left {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-evenly;
+}
+.p-third-left-item-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 36px;
+  color: #000000;
+}
+.p-third-left-item-left-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 26px;
+  color: #000000;
+}
+.p-third-left-item-left-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.date {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.p-third-left-item-right {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.s-test {
+  align-self: flex-end;
+}
+.border {
+  height: 1px;
+  width: 583px;
+  background: #e5e5e5;
+}
