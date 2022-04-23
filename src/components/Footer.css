@@ -1,0 +1,85 @@
+.footer {
+  padding-top: 178px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.ready {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+.let {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  letter-spacing: 0.5px;
+  color: #3c46ff;
+}
+.f-middle {
+  display: flex;
+  padding-top: 100px;
+}
+.f-middle-left {
+  flex: 1;
+}
+.f-middle-right {
+  flex: 1;
+  display: flex;
+  justify-content: space-evenly;
+}
+.creater {
+  font-size: 28px;
+}
+.creater span {
+  color: rgb(197, 69, 90);
+}
+.number {
+  margin-top: 17px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #666666;
+}
+.com {
+  margin-top: 10px;
+  display: flex;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 36px;
+  color: #5c5c5c;
+}
+.f-first {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.item {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #ffffff;
+}
+.f-last {
+  margin-top: 140px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #8a95ad;
+  margin-bottom: 21px;
+}

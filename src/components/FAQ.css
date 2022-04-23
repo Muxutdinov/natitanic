@@ -1,0 +1,59 @@
+.F-container {
+  margin-top: 165px;
+  background-color: black;
+  padding-top: 78px;
+  padding-bottom: 70px;
+}
+.F-container-left {
+  flex: 1;
+}
+.F-container-right {
+  flex: 1;
+}
+.faq {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #ff8a56;
+}
+.asked {
+  margin-top: 10px;
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+.F-wrapper-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 31px;
+  letter-spacing: 0.3px;
+  color: #ffffff;
+}
+.F-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.F-wrappers {
+  margin-top: 150px;
+  display: flex;
+  gap: 50px;
+}
+.border {
+  margin-top: 50px;
+  height: 1px;
+  width: 583.1875px;
+  background: rgba(229, 229, 229, 0.3);
+}

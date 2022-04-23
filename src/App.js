@@ -1,6 +1,8 @@
 import React from "react";
 import "./App.css";
 import Blog from "./components/Blog";
+import FAQ from "./components/FAQ";
+import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Navbar from "./components/Navbar";
 import Product from "./components/Product";
@@ -20,6 +22,8 @@ const App = () => {
       <Blog />
       <Product/>
       <Testimonials/>
+      <FAQ/>
+      <Footer/>
     </div>
   );
 };
