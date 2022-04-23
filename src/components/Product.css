@@ -69,16 +69,22 @@
   display: flex;
   margin-top: 160px;
   margin-bottom: 190px;
+  height: 663px;
+  width: 1215px;
 }
 .p-third-left {
-  flex: 0.7;
+  flex: auto;
   display: flex;
   flex-direction: column;
+  /* height: 503px; */
+  /* width: 583.1875px; */
 }
 .p-third-right {
-  flex: 0.7;
+  flex: auto;
   display: flex;
   flex-direction: column;
+  /* height: 503px; */
+  /* width: 583.1875px; */
 }
 .p-third-left-item {
   height: 70px;

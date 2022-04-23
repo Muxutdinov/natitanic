@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Product from "./components/Product";
 import Projects from "./components/Projects";
 import Services from "./components/Services";
+import Testimonials from "./components/Testimonials";
 import Trusted from "./components/Trusted";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
       <Projects />
       <Blog />
       <Product/>
+      <Testimonials/>
     </div>
   );
 };

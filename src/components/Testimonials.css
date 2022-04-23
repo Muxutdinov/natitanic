@@ -1,0 +1,75 @@
+.testimonials {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #4353ff;
+}
+.street {
+  margin-top: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  color: #000000;
+}
+.t-wrapper {
+  display: flex;
+  margin-top: 85px;
+  gap: 100px;
+}
+.t-wrapper-left {
+  flex: 1;
+}
+
+.t-wrapper-right {
+  flex: 1;
+}
+.t-text {
+  margin-top: 32px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 47px;
+  color: #000000;
+}
+.john-wrapper {
+  margin-top: 109px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.t-bottom-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+}
+.t-bottom-text {
+  margin-top: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  color: #000000;
+}
+.t-bottom-right-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 54px;
+  width: 54px;
+  background: #000000;
+}
+.t-bottom-right {
+  display: flex;
+}
